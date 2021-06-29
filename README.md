@@ -5,7 +5,7 @@
 # vaccinslot
 check availability of covid-vaccine
 
-<p float="left" margin: 50px>
+<p float="left">
   <img src="https://user-images.githubusercontent.com/65062751/123726251-45fbbe00-d8ad-11eb-9f73-624bb77ceba4.jpeg" width="300" height="550">
 
 <img src="https://user-images.githubusercontent.com/65062751/123726239-42683700-d8ad-11eb-88b6-9b69295c827e.jpeg" width="300" height="550">
